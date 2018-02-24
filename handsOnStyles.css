@@ -1,0 +1,24 @@
+.ex1 {
+	background-color: lightgrey;
+	color: white;
+	width: 200px;
+	padding: 10px 20px;
+	border: 2px dotted white;
+	margin: 30px;
+}
+
+.ex2s {
+	height: 190px;
+	width: 175px;
+	margin-top: 8px; 
+	margin-bottom: 8px;
+}
+
+.ex2a {
+	padding: 10px;
+	background-color: lightgrey;
+}
+
+.ex2b {
+	border: 10px solid lightgrey;
+}
